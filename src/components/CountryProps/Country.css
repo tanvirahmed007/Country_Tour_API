@@ -1,0 +1,13 @@
+.country{
+    padding: 5%;
+    background-color: brown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.showCountryDetails{
+    width: 30%;
+    border: 2px solid black;
+    
+}
